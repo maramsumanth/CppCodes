@@ -1,7 +1,7 @@
 def bubbleSort(arr):
     n = len(arr)
      
-    # Traverse through all array elements
+    # Traverse through all array elements for fun
     for i in range(n):
         swapped = False
  
